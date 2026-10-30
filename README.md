@@ -6,7 +6,7 @@ Professor orientador: Jorge Silva
 
 ## Descrição
 
-O Marktime é uma aplicação web de marcações online para pequenos negócios locais, como cabeleireiros, barbearias e outros serviços de atendimento ao público. 
+O Marktime é uma aplicação web de marcações online para pequenos negócios locais, como cabeleireiros, barbearias e outros serviços de atendimento ao público. O cliente cria uma conta, escolhe um serviço, um funcionário e um horário livre, e confirma a marcação. O sistema verifica a disponibilidade para evitar duas marcações à mesma hora. O negócio consulta a agenda diária e semanal, gere serviços, funcionários e horários, acompanha o histórico de clientes e consulta estatísticas. Numa fase posterior, o projeto prevê confirmações e lembretes por WhatsApp.
 
 ## Objetivos
 
@@ -19,7 +19,7 @@ O Marktime é uma aplicação web de marcações online para pequenos negócios 
 
 ### Núcleo mínimo
 
-- [ ] Registo e início de sessão 
+- [ ] Registo e início de sessão com palavras-passe encriptadas.
 - [ ] Gestão de serviços: criar, editar e apagar.
 - [ ] Marcação com verificação de horários livres, sem duplicar marcações.
 - [ ] Agenda diária e semanal do negócio.
@@ -48,6 +48,15 @@ O Marktime é uma aplicação web de marcações online para pequenos negócios 
 - `marcacoes`
 - `horarios`
 
+## Planeamento
 
+| Fase | Período | Estado |
+| --- | --- | --- |
+| Análise e modelação da base de dados | novembro | Por fazer |
+| Desenvolvimento do núcleo mínimo | dezembro – março | Por fazer |
+| Testes e correções | abril | Por fazer |
+| Relatório e apresentação | maio – junho | Por fazer |
+
+## Registo de progresso
 
 - 30/10/2026 – Preparação do README inicial do projeto.
